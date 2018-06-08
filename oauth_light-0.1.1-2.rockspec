@@ -1,11 +1,11 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "oauth_light"
-version = "0.1.1-1"
+version = "0.1.1-2"
 
 -- LuaDist source
 source = {
-  tag = "0.1.1-1",
+  tag = "0.1.1-2",
   url = "git://github.com/LuaDist-testing/oauth_light.git"
 }
 -- Original source
@@ -26,7 +26,7 @@ description = {
 
 dependencies = {
     "lua >= 5.1",
-    "lbase64 >= 20120820",
+    "lbase64",
     "luacrypto >= 0.3.2",
 }
 
