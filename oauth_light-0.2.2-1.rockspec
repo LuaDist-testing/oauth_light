@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "oauth_light"
-version = "0.2.0-1"
+version = "0.2.2-1"
 
 -- LuaDist source
 source = {
-  tag = "0.2.0-1",
+  tag = "0.2.2-1",
   url = "git://github.com/LuaDist-testing/oauth_light.git"
 }
 -- Original source
 -- source = {
 --     url = "git://github.com/darkstalker/oauth_light.git",
---     tag = "0.2.0",
+--     tag = "0.2.2",
 -- }
 
 description = {
