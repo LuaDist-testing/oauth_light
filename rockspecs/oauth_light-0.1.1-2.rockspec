@@ -1,18 +1,10 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "oauth_light"
 version = "0.1.1-2"
 
--- LuaDist source
 source = {
-  tag = "0.1.1-2",
-  url = "git://github.com/LuaDist-testing/oauth_light.git"
+    url = "git://github.com/darkstalker/oauth_light.git",
+    tag = "0.1.1",
 }
--- Original source
--- source = {
---     url = "git://github.com/darkstalker/oauth_light.git",
---     tag = "0.1.1",
--- }
 
 description = {
     summary = "Minimal implementation of OAuth 1.0",
